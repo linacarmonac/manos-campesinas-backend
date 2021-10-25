@@ -15,11 +15,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "admin",
-    "password": "manoscampesinas",
-    "database": "manos_campesinas",
-    "host": "database-lina.ctx756zaszcr.us-east-1.rds.amazonaws.com",
-    "dialect": "mysql",
-    "port": 3306
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
   }
 }

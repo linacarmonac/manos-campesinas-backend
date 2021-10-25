@@ -129,4 +129,4 @@ dist
 
 client_secret*
 
-./config/config.json
+config.json
